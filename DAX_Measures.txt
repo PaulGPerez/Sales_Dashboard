@@ -1,0 +1,3 @@
+Total Cost = SUMX('public sales', 'public sales'[quantity] * RELATED('public products'[unit_cost_usd]))
+
+Profit Margin % = DIVIDE([Normalized Revenue] - [Total Cost], [Normalized Revenue], 0)
