@@ -1,3 +1,4 @@
+![Dashboard Preview](<General Electronics Retail Analysis Dashboard Visualization.png>)
 Power BI Sales Dashboard
 
 I built this Power BI dashboard to track executive KPIs, analyze revenue trends, and measure product profitability. I uploaded the .pbix source file so you can download it and test the interactive cross-filtering and data models directly.
